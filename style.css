@@ -91,9 +91,10 @@ p {
 }
 
 .fox-img img {
-  height: 310px;
+  height: 300px;
   border-radius: 50%;
   margin-top: 20px;
+  margin-left: 70px;
   box-shadow: 3px 3px 10px #00000091;
 
   animation: moveFox 2s infinite alternate ease-in-out;
