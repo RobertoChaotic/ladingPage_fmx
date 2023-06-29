@@ -57,7 +57,7 @@ aside {
 #barra-menu ul li a {
   color: #ffff;
   text-decoration: none;
-  font-size: 13px;
+  font-size: 10px;
   width: 100%;
 }
 
@@ -89,6 +89,7 @@ p {
   font-size: 12px;
   width: 270px;
   margin-top: 10px;
+  padding: 10px;
   color: #9ef8ee;
   line-height: 18px;
 }
