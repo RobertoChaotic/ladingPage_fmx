@@ -83,7 +83,8 @@ h1 {
   color: #fac108;
 }
 
-.main-tittle p {
+p {
+  text-align: justify;
   font-size: 13px;
   width: 270px;
   margin-top: 5px;
