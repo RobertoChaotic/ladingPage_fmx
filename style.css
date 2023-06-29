@@ -58,7 +58,7 @@ aside {
   color: #ffff;
   text-decoration: none;
   font-size: 13px;
-  width: 100px;
+  width: 100%;
 }
 
 #barra-menu ul li a:hover {
@@ -105,11 +105,5 @@ p {
 @keyframes moveFox {
   from {
     transform: translate(-5%, -5%) rotate(-5deg);
-  }
-}
-
-@media screen and (max-width: 414px) {
-  aside .main-tittle {
-    font-size: 40px;
   }
 }
