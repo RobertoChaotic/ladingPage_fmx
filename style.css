@@ -68,7 +68,7 @@ aside {
 .main-tittle {
   padding: 10px;
   margin-left: 20px;
-  width: 290px;
+  width: 287px;
 }
 
 .logo-fmx img {
@@ -85,6 +85,7 @@ h1 {
 
 p {
   font-size: 13px;
+  width: 305px;
   margin-top: 5px;
   color: #9ef8ee;
 }
