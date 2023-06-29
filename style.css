@@ -13,7 +13,7 @@ html {
 
 .section-1-bg {
   background-color: #22babb;
-  height: 100%;
+  height: 100vh;
   width: 100%;
 }
 
@@ -68,7 +68,7 @@ aside {
 .main-tittle {
   padding: 10px;
   margin-left: 20px;
-  width: 287px;
+  width: 100%;
 }
 
 .logo-fmx img {
@@ -103,5 +103,11 @@ p {
 @keyframes moveFox {
   from {
     transform: translate(-5%, -5%) rotate(-5deg);
+  }
+}
+
+@media screen and (max-width: 414px) {
+  .main-tittle {
+    font-size: 40px;
   }
 }
