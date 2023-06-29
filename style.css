@@ -5,6 +5,12 @@
   font-family: "Poppins", sans-serif;
 }
 
+body,
+html {
+  width: 100vw;
+  height: 100vh;
+}
+
 .section-1-bg {
   background-color: #22babb;
   height: 100%;
@@ -78,8 +84,7 @@ h1 {
 }
 
 p {
-  font-size: 16px;
-  width: 320px;
+  font-size: 13px;
   margin-top: 5px;
   color: #9ef8ee;
 }
