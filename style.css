@@ -42,6 +42,10 @@ aside {
   cursor: pointer;
 }
 
+#barra-menu i {
+  font-size: 20px;
+}
+
 #barra-menu {
   background: #f24405;
   height: 100vh;
@@ -77,7 +81,7 @@ aside {
 }
 
 h1 {
-  font-size: 28px;
+  font-size: 27px;
   font-stretch: ultra-condensed;
   margin-top: 5px;
   padding: 5px;
