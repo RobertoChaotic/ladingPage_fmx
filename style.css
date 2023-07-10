@@ -13,6 +13,7 @@ html {
 
 .section-1-bg {
   background-color: #22babb;
+  background: url(img/);
   height: 100vh;
   width: 100%;
 }
