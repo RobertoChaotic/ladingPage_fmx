@@ -72,13 +72,14 @@ aside {
 }
 
 .main-tittle {
-  width: 100%;
+  margin: auto;
+  width: 87%;
   height: 100vh;
 }
 
 .logo-fmx img {
-  margin: 5px;
-  height: 100px;
+  margin: 7px;
+  height: 140px;
   border-radius: 50%;
 }
 
@@ -87,6 +88,7 @@ aside {
   align-items: center;
   justify-content: space-around;
   background: #fac108;
+  border-radius: 0px 0px 30px 30px;
   box-shadow: 3px 3px 10px #00000091;
 }
 
@@ -100,15 +102,15 @@ h1 {
 
 p {
   background: #f24405ea;
-  font-size: 20px;
+  color: #ffff;
+  font-size: 18px;
+  text-align: justify;
   width: 500px;
   height: 300px;
+  margin-top: 50px;
+  padding: 29px;
   border-radius: 30px 0px 30px 0px;
-  color: #ffff;
   box-shadow: 3px 3px 10px #00000091;
-  margin-top: 30px;
-  padding: 25px;
-  line-height: 27px;
 }
 
 .fox-img img {
